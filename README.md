@@ -1,5 +1,5 @@
 # Django-Library-Management-System
-![image]{'https://1drv.ms/i/s!AifRP6CFpU60iJMv_ZdC6AaO683GCg?e=SzsCYq'}
+[image]{'https://1drv.ms/i/s!AifRP6CFpU60iJMv_ZdC6AaO683GCg?e=SzsCYq'}
 
 
 

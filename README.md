@@ -3,16 +3,20 @@
 
 [Live](https://libproj-1.sujeetdeore777.repl.co)
 
-
-#create a superuser for admin login or to access the admin pannel:
-<br>
- python manage.py createsuperuser
-<br>
 python manage.py makemigrations
 <br>
 python manage.py migrate
 <br>
 python manage.py runserver
+
+<h1>Instructions</h1>
+1. register as new user and then sign in
+2. create a superuser for admin login or to access the admin pannel:
+<br>
+ python manage.py createsuperuser
+<br>
+login by same singin page to get into admin
+
 
 
 

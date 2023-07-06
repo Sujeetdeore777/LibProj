@@ -1,5 +1,7 @@
 # Django-Library-Management-System
-[image](https://1drv.ms/i/s!AifRP6CFpU60iJMv_ZdC6AaO683GCg?e=SzsCYq)
+[<h1>image</h1>](https://1drv.ms/i/s!AifRP6CFpU60iJMv_ZdC6AaO683GCg?e=SzsCYq)
+
+[Live](https://libproj-1.sujeetdeore777.repl.co)
 
 
 #create a superuser for admin login or to access the admin pannel:
@@ -12,7 +14,7 @@ python manage.py migrate
 <br>
 python manage.py runserver
 
-[Live](https://libproj-1.sujeetdeore777.repl.co)
+
 
 
 

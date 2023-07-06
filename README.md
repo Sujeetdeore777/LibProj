@@ -11,6 +11,7 @@ python manage.py runserver
 
 <h1>Instructions</h1>
 1. register as new user and then sign in
+<br>
 2. create a superuser for admin login or to access the admin pannel:
 <br>
  python manage.py createsuperuser

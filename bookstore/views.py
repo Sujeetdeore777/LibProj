@@ -73,24 +73,6 @@ def registerView(request):
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
-
-
 # Publisher views
 @login_required
 def publisher(request):
@@ -230,16 +212,6 @@ def send_feedback(request):
 
 
 
-
-
-
-
-
-
-
-
-
-
 class UBookListView(LoginRequiredMixin,ListView):
 	model = Book
 	template_name = 'publisher/book_list.html'
@@ -294,16 +266,6 @@ class UListChat(LoginRequiredMixin, ListView):
 
 	def get_queryset(self):
 		return Chat.objects.filter(posted_at__lt=timezone.now()).order_by('posted_at')
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -18,7 +18,8 @@ python manage.py runserver
 <br>
 login by same singin page to get into admin
 
-
+# Django-Library-Management-System Intro
+A Library Django app is a web application built using the Django framework, specifically designed to manage and catalog a collection of books or other literary materials. It typically includes features like user authentication, book database management, search and filtering options, and the ability to check out or reserve books. This app is commonly used in libraries, educational institutions, and bookstores to efficiently organize and provide access to their literary resources online.
 
 
 
